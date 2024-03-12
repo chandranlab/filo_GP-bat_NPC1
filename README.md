@@ -11,13 +11,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/chandranlab/filo_GP-bat_NPC1/img/0_overview.png">
-    <img src="/img/0_overview.png" alt="Logo" width="200">
+    <img src="/img/0_overview.png" alt="Logo" width="400">
   </a>
 
   <h3 align="center">Characterizing the binding between filovirus GPs and bat NPC1s</h3>
 
   <p align="center">
-    A collection of scripts implemented to characterize binding and model the binding strength
+    A collection of scripts implemented to characterize and model the binding strength between both proteins
     <br />
     <a href="https://github.com/chandranlab/filo_GP-bat_NPC1"><strong>Explore the docs »</strong></a>
     <br />
@@ -29,12 +29,6 @@
   </p>
 </div>
 
-
-<!-
-# filo_GP-bat_NPC1
-![Introduction image](/img/0_overview.png)
-Code implemented for modeling the binding strength between filovirus GPs and their receptors (NPC1) in bats
--->
 
 
 
