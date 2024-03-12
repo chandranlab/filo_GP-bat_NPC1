@@ -39,9 +39,9 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#scr">Scripts</a>
+      <a href="#scripts">Scripts</a>
       <ul>
-        <li><a href="#elisa">Process ELISA readouts</a></li>
+        <li><a href="#process-elisa-readouts">Process ELISA readouts</a></li>
         <li><a href="#mlprepare">Prepare input sequences for machine learning</a></li>
         <li><a href="#rf">Random Forest</a></li>
         <li><a href="#interpret">Model Interpretation</a></li>
