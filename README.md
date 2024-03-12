@@ -29,7 +29,7 @@
   </p>
 </div>
 
-
+<!-- ########################################################################################## -->
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -51,6 +51,8 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
+---
 
 <!-- ########################################################################################## -->
 
@@ -77,17 +79,17 @@ dd
 description
 </p>
 
-### Prepare input sequences for machine learning
+#### Prepare input sequences for machine learning
 <p>
 description
 </p>
 
-### Random forest
+#### Random forest
 <p>
 description
 </p>
 
-### Model interpretation
+#### Model interpretation
 <p>
 description
 </p>
