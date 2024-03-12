@@ -81,8 +81,8 @@ dd
 <!-- CONTACT -->
 ## Contact
 
-Gorka Lasso - [@gorkalasso](https://twitter.com/gorkalasso) - gorka.lasso@gmail.com
-Kartik Chandran - [@chandranlab](https://twitter.com/chandranlab) - kartik.chandran@gmail.com
+* Gorka Lasso - [@gorkalasso](https://twitter.com/gorkalasso) - gorka.lasso@gmail.com
+* Kartik Chandran - [@chandranlab](https://twitter.com/chandranlab) - kartik.chandran@gmail.com
 
 Project Link: [https://github.com/chandranlab/filo_GP-bat_NPC1](https://github.com/chandranlab/filo_GP-bat_NPC1)
 
