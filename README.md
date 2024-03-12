@@ -74,9 +74,21 @@ dd
 <p>
 description
 </p>
+
 ### Prepare input sequences for machine learning
+<p>
+description
+</p>
+
 ### Random forest
+<p>
+description
+</p>
+
 ### Model interpretation
+<p>
+description
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
