@@ -36,7 +36,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about">About The Project</a>
+      <a href="#about-the-project">About The Project</a>
     </li>
     <li>
       <a href="#scr">Scripts</a>
@@ -56,8 +56,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 dd
 
 dd:
@@ -69,6 +67,13 @@ dd
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- ABOUT THE PROJECT -->
+## Scripts
+* 
+* 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
