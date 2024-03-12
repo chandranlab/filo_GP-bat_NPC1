@@ -71,6 +71,9 @@ dd
 <!-- ABOUT THE PROJECT -->
 ## Scripts
 * ### Process ELISA readouts
+<p>
+description
+</p>
 * ### Prepare input sequences for machine learning
 * ### Random forest
 * ### Model interpretation
