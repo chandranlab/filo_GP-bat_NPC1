@@ -62,13 +62,17 @@
 Code repository for manuscript “Decoding the blueprint of filovirus entry through large-scale binding assays and machine learning” (Lasso et al., manuscript in preparation). This collection includes:
 <li>
 Processing of experimental data
-<li>Processing of ELISA binding experiments</li>
-<li>Hierarchical clustering based on binding profiles</li>
+  <ul>
+    <li>Processing of ELISA binding experiments</li>
+    <li>Hierarchical clustering based on binding profiles</li>
+  </ul>
 Machine Learning
-<li>Feature selection</li>
-<li>Hyperparameter optimization</li>
-<li>Training & Evaluation</li>
-<li>Model interpretation</li>
+  <ul>
+    <li>Feature selection</li>
+    <li>Hyperparameter optimization</li>
+    <li>Training & Evaluation</li>
+    <li>Model interpretation</li>
+  </ul>
 </li>
 
 
