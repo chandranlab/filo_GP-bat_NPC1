@@ -42,9 +42,9 @@
       <a href="#scripts">Scripts</a>
       <ul>
         <li><a href="#process-elisa-readouts">Process ELISA readouts</a></li>
-        <li><a href="#mlprepare">Prepare input sequences for machine learning</a></li>
-        <li><a href="#rf">Random Forest</a></li>
-        <li><a href="#interpret">Model Interpretation</a></li>
+        <li><a href="#prepare-input-sequences-for-machine-learning">Prepare input sequences for machine learning</a></li>
+        <li><a href="#random-forest">Random forest</a></li>
+        <li><a href="#model-interpretation">Model interpretation</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -72,6 +72,8 @@ dd
 ## Scripts
 * ### Process ELISA readouts
 * ### Prepare input sequences for machine learning
+* ### Random forest
+* ### Model interpretation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
