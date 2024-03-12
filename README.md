@@ -78,6 +78,16 @@ dd
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- CONTACT -->
+## Contact
+
+Gorka Lasso - [@gorkalasso](https://twitter.com/gorkalasso) - gorka.lasso@gmail.com
+Kartik Chandran - [@chandranlab](https://twitter.com/chandranlab) - kartik.chandran@gmail.com
+
+Project Link: [https://github.com/chandranlab/filo_GP-bat_NPC1](https://github.com/chandranlab/filo_GP-bat_NPC1)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
