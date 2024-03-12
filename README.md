@@ -23,5 +23,5 @@ Code implemented for modeling the binding strength between filovirus GPs and the
 [forks-url]: https://github.com/chandranlab/filo_GP-bat_NPC1/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/chandranlab/filo_GP-bat_NPC1/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/chandranlab/filo_GP-bat_NPC1.svg?style=for-the-badge
 [issues-url]: https://github.com/chandranlab/filo_GP-bat_NPC1/issues
