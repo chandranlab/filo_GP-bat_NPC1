@@ -70,13 +70,13 @@ dd
 
 <!-- ABOUT THE PROJECT -->
 ## Scripts
-* ### Process ELISA readouts
+### Process ELISA readouts
 <p>
 description
 </p>
-* ### Prepare input sequences for machine learning
-* ### Random forest
-* ### Model interpretation
+### Prepare input sequences for machine learning
+### Random forest
+### Model interpretation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
