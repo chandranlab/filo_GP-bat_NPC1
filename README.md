@@ -70,8 +70,8 @@ dd
 
 <!-- ABOUT THE PROJECT -->
 ## Scripts
-* 
-* 
+* ### Process ELISA readout
+* ### Prepare input sequences for machine learning
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
