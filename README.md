@@ -14,10 +14,10 @@
     <img src="/img/0_overview.png" alt="Logo" width="400">
   </a>
 
-  <h3 align="center">Characterizing the binding between filovirus GPs and bat NPC1s</h3>
+  <h3 align="center">Decoding the blueprint of filovirus entry through large-scale binding assays and machine learning</h3>
 
   <p align="center">
-    A collection of scripts implemented to characterize and model the binding strength between both proteins
+    A collection of scripts implemented to characterize and model the binding strength between filovirus glycoproteins and bat receptors (NPC1)
     <br />
     <a href="https://github.com/chandranlab/filo_GP-bat_NPC1"><strong>Explore the docs »</strong></a>
     <br />
@@ -59,7 +59,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-dd
+Code repository for manuscript “Decoding the blueprint of filovirus entry through large-scale binding assays and machine learning” (Lasso et al., manuscript in preparation). This collection includes:
+<li>
+Processing of experimental data
+<li>Processing of ELISA binding experiments</li>
+<li>Hierarchical clustering based on binding profiles</li>
+Machine Learning
+<li>Feature selection</li>
+<li>Hyperparameter optimization</li>
+<li>Training & Evaluation</li>
+<li>Model interpretation</li>
+</li>
+
 
 dd:
 * dd
