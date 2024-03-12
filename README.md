@@ -32,7 +32,7 @@
 <!-- ########################################################################################## -->
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details open>
   <summary>Table of Contents</summary>
   <ol>
     <li>
