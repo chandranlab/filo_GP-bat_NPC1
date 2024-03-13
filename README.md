@@ -84,7 +84,7 @@ Machine Learning
 #### Process ELISA readouts
 <p>
 <ul>
-<li>A python script to automatically process enzyme-linked Immunosorbent assay (ELISA) output generated with Agilent Biotek’s cytation (https://explore.agilent.com/imaging-microscopy). Processing includes denoising, normalization, and sigmoidal curve fit.</li>
+<li>A python script to automatically process enzyme-linked Immunosorbent assay (ELISA) output generated with [Agilent Biotek’s cytation](https://explore.agilent.com/imaging-microscopy). Processing includes denoising, normalization, and sigmoidal curve fit.</li>
 <li>More info</li>
 </ul>
 </p>
