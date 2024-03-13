@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/chandranlab/filo_GP-bat_NPC1/img/0_overview.png">
-    <img src="/img/0_overview.png" alt="Logo" width="400">
+  <a href="https://github.com/chandranlab/filo_GP-bat_NPC1/img/curves.png">
+    <img src="/img/curves.png" alt="Logo" width="400">
   </a>
 
   <h3 align="center">Decoding the blueprint of filovirus entry through large-scale binding assays and machine learning</h3>
