@@ -34,6 +34,5 @@ Python version: 3.8.2
 |scikit-learn    | 0.24.1   |
 |openpyxl        | 3.0.7    |
 |pybroom         | 0.2      |
-|xlrd             | 2.0.1   |
 |XlsxWriter       | 1.3.8   |
 
