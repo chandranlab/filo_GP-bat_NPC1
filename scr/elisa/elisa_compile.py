@@ -253,7 +253,7 @@ class ELISACOMPILE(object):
         :return:
         """
         df = self.df_group.std().reset_index()
-        print(df)
+#         print(df)
         df = df.drop(['Category', 'Specie'], axis=1)
         # print(df)
         # x_min = df.select_dtypes(include=['float64', 'int']).values.min()
