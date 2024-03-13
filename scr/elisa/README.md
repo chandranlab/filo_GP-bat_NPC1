@@ -62,39 +62,39 @@
 |Pillow          | 8.2.0    |
 |pip             | 20.0.2   |
 |pox             | 0.2.9    |
-|ppft              1.6.6.3  
-|progressbar2      3.53.1   
-|pybroom           0.2      
-|pyenchant         3.2.0    
-|pyparsing         2.4.7    
-|python-dateutil   2.8.1    
-|python-utils      2.5.6    
-|pytz              2021.1   
-|regex             2021.4.4 
-|requests          2.25.1   
-|ruamel.yaml       0.17.3   
-|ruamel.yaml.clib  0.2.2    
-|scikit-learn      0.24.1   
-|scipy             1.6.2    
-|seaborn           0.11.1   
-|semver            2.13.0   
-|setuptools        45.2.0   
-|six               1.15.0   
-|sklearn           0.0      
-|smmap             4.0.0    
-|soupsieve         2.2.1    
-|statsmodels       0.12.2   
-|system-query      0.2.7    
-|tables            3.6.1    
-|threadpoolctl     2.1.0    
-|timeout-decorator 0.5.0    
-|tqdm              4.60.0   
-|traitlets         5.0.5    
-|uncertainties     3.1.5    
-|urllib3           1.26.4   
-|vecto             0.2.12   
-|version-query     1.1.0    
-|wheel             0.34.2   
-|wiktionaryparser  0.0.7    
-|xlrd              2.0.1    
-|XlsxWriter        1.3.8    
+|ppft            | 1.6.6.3  |
+|progressbar2    | 3.53.1   |
+|pybroom         | 0.2      |
+|pyenchant       | 3.2.0    |
+|pyparsing       | 2.4.7    |
+|python-dateutil | 2.8.1    |
+|python-utils    | 2.5.6    |
+|pytz            | 2021.1   |
+|regex           | 2021.4.4 |
+|requests        | 2.25.1   |
+|ruamel.yaml     | 0.17.3   |
+|ruamel.yaml.clib| 0.2.2    |
+|scikit-learn    | 0.24.1   |
+|scipy           | 1.6.2    |
+|seaborn         | 0.11.1   |
+|semver          | 2.13.0   |
+|setuptools      | 45.2.0   |
+|six             | 1.15.0   |
+|sklearn         | 0.0      |
+|smmap           | 4.0.0    |
+|soupsieve       | 2.2.1    |
+|statsmodels     | 0.12.2   |
+|system-query    | 0.2.7    |
+|tables          | 3.6.1    |
+|threadpoolctl   | 2.1.0    |
+|timeout-decorator| 0.5.0   |
+|tqdm             | 4.60.0  |
+|traitlets        | 5.0.5   |
+|uncertainties    | 3.1.5   |
+|urllib3          | 1.26.4  |
+|vecto            | 0.2.12  |
+|version-query    | 1.1.0   |
+|wheel            | 0.34.2  |
+|wiktionaryparser | 0.0.7   |
+|xlrd             | 2.0.1   |
+|XlsxWriter       | 1.3.8   |
