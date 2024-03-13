@@ -75,14 +75,6 @@ Machine Learning
   </ul>
 </li>
 
-
-dd:
-* dd
-* dd
-* dd :smile:
-
-dd
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ########################################################################################## -->
@@ -91,7 +83,10 @@ dd
 ## Scripts
 #### Process ELISA readouts
 <p>
-description
+<ul>
+<li>A python script to automatically process enzyme-linked Immunosorbent assay (ELISA) output generated with Agilent Biotek’s cytation (https://explore.agilent.com/imaging-microscopy). Processing includes denoising, normalization, and sigmoidal curve fit.</li>
+<li>More info</li>
+</ul>
 </p>
 
 #### Prepare input sequences for machine learning

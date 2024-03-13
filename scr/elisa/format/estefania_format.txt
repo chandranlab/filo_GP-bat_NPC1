@@ -1,0 +1,47 @@
+#Coordinates for readouts to be denoised & normalized
+experiment | readout | usecols | B:M
+experiment | readout | skiprows | 8
+experiment | readout | nrows | 8
+experiment | concentration | usecols | B:M
+experiment | concentration | skiprows | 6
+experiment | concentration | nrows | 1
+experiment | name | usecols | N:N
+experiment | name | skiprows | 8
+experiment | name | nrows | 8
+experiment | keyword | nan
+
+#Coordinates for readouts for the positive controls
+positive | readout | usecols | B:M
+positive | readout | skiprows | 8
+positive | readout | nrows | 8
+positive | concentration | usecols | B:M
+positive | concentration | skiprows | 6
+positive | concentration | nrows | 1
+positive | name | usecols | N:N
+positive | name | skiprows | 8
+positive | name | nrows | 8
+positive | keyword | dC52
+
+#Coordinates for readouts for the negative controls
+negative | readout | usecols | B:M
+negative | readout | skiprows | 8
+negative | readout | nrows | 8
+negative | concentration | usecols | B:M
+negative | concentration | skiprows | 6
+negative | concentration | nrows | 1
+negative | name | usecols | N:N
+negative | name | skiprows | 8
+negative | name | nrows | 8
+negative | keyword | dC52
+
+#Coordinates for readouts for the blanks
+blank | readout | usecols | B:M
+blank | readout | skiprows | 8
+blank | readout | nrows | 8
+blank | concentration | usecols | B:M
+blank | concentration | skiprows | 6
+blank | concentration | nrows | 1
+blank | name | usecols | N:N
+blank | name | skiprows | 8
+blank | name | nrows | 8
+blank | keyword | dC52
