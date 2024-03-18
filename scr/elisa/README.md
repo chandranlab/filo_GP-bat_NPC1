@@ -32,7 +32,7 @@
 
  Packages
 
- |Package         | Version  |
+|Package         | Version  |
 |----------------|:--------:|
 |pandas          | 1.2.3    |
 |lmfit           | 1.0.2    |
