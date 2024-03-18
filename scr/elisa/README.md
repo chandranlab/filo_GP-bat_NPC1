@@ -1,12 +1,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <h3 align="center">ELISA processing pipeline</h3>
+  
   <a href="https://github.com/chandranlab/filo_GP-bat_NPC1/img/curves.png">
     <img src="/img/curves.png" alt="Logo" width="400">
   </a>
-
-  <h3 align="center">ELISA processing pipeline</h3>
-
+  
   <p align="center">
     A python code for the automatic processing of ELISA experiments
     <br />
