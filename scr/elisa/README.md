@@ -30,6 +30,8 @@
 
 Python version: 3.8.2
 
+Packages
+
 |Package         | Version  |
 |----------------|:--------:|
 |pandas          | 1.2.3    |
@@ -65,8 +67,10 @@ Python version: 3.8.2
 <!-- INPUT -->
 
 ## Input files
-
-
+The algorithm requires three sets of inputs:
+* Cytation file(s) with labels
+* Format file specifying what is what in the cytation files
+* Master file specifying processing options
 
 ### Cytation file(s)
 
