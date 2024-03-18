@@ -370,7 +370,7 @@ class ELISA(object):
         df_group_mean_t = df_group_mean.transpose()
         df_group_std_t = df_group_std.transpose()
         df_group_std_t.replace('', 0, inplace=True)
-        df_group_std_t.to_csv('test.csv')
+#         df_group_std_t.to_csv('test.csv')
         # print(df_group_std_t)
         plt.figure()
         plt.rc('legend', fontsize=7)
@@ -584,9 +584,9 @@ class ELISA(object):
             df_exp_conc = self.extract_df_in_xls_sheet(sheet_ct, 'experiment', 'concentration')
             df_exp_read = self.extract_df_in_xls_sheet(sheet_ct, 'experiment', 'readout')
             df_exp_name = self.extract_df_in_xls_sheet(sheet_ct, 'experiment', 'name')
-            df_exp_conc.to_excel('concentration.xlsx')
-            df_exp_read.to_excel('readout.xlsx')
-            df_exp_name.to_excel('name.xlsx')
+#             df_exp_conc.to_excel('concentration.xlsx')
+#             df_exp_read.to_excel('readout.xlsx')
+#             df_exp_name.to_excel('name.xlsx')
             keyword = self.xls_coords['experiment']['keyword']
             df_exp_comb = self.combine_df(df_exp_conc, df_exp_read, df_exp_name, keyword, 'not_equal',
                                           'Readouts to proces')

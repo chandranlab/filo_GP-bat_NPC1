@@ -1,0 +1,646 @@
+Processing	/Users/gorkalasso/Documents/GitHub/filo_GP-bat_NPC1/scr/elisa/input_ELISA/01092020_BOMV_ELISA_B1-B28.xpt.xlsx
+Processing	/Users/gorkalasso/Documents/GitHub/filo_GP-bat_NPC1/scr/elisa/input_ELISA/01162020_BOMV_ELISA_B29-B50.xpt.xlsx
+Sigmoid fitting for: BOMV_B1
+	Fitted params (min, max, ec50, hill): 0.00, 94.30, 0.34, 0.83
+	EC50 fitted: 0.338844229
+	Chisq	119.2133
+	Pearson: 0.9985	5.07E-14
+	R squared:	0.9967
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  136.804897  6.514519  47.772047  51.306209             21     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50   0.338844   0.000000  100.277335   True   NaN  0.021979   -1.465568
+1  hill   0.825261 -99.280594  100.719406   True   NaN  0.037781    0.000000
+2  ymax  94.303021       -inf         inf   True   NaN  0.931005   95.257126
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B10
+	Fitted params (min, max, ec50, hill): 0.00, 101.70, 13.77, 0.92
+	EC50 fitted: 13.769731404
+	Chisq	57.4952
+	Pearson: 0.9986	3.58E-14
+	R squared:	0.9972
+	Constrained fit results & evaluation
+    method  num_params  num_data_points     chisqr   redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  169.59746  8.07607  52.928974  56.463136             17     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50   13.769731   0.000000  113.974048   True   NaN  1.101712   -0.855327
+1  hill    0.919541 -99.048764  100.951236   True   NaN  0.053058    0.000000
+2  ymax  101.697211       -inf         inf   True   NaN  1.902843  101.188041
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B11
+	Fitted params (min, max, ec50, hill): 0.00, 98.31, 29.61, 1.02
+	EC50 fitted: 29.612813638
+	Chisq	117.5656
+	Pearson: 0.9994	4.27E-16
+	R squared:	0.9984
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  102.439827  4.878087  40.829322  44.363483             13     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50  29.612814   0.000000  130.211664   True   NaN  1.902880   -0.565645
+1  hill   1.023905 -98.917473  101.082527   True   NaN  0.051749    0.000000
+2  ymax  98.306577       -inf         inf   True   NaN  1.719750   97.436738
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B12
+	Fitted params (min, max, ec50, hill): 0.00, 106.15, 85.31, 0.89
+	EC50 fitted: 85.306457369
+	Chisq	142.0050
+	Pearson: 0.9994	4.46E-16
+	R squared:	0.9982
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  145.294353  6.918779  49.216989  52.751151             17     True  Fit succeeded.
+   name       value        min         max   vary  expr     stderr  init_value
+0  ec50   85.306457   0.000000  183.566309   True   NaN  10.666373   -0.089645
+1  hill    0.886356 -99.040999  100.959001   True   NaN   0.059947    0.000000
+2  ymax  106.146424       -inf         inf   True   NaN   4.005233  103.610256
+3  ymin    0.000000       -inf         inf  False   NaN   0.000000         NaN
+Sigmoid fitting for: BOMV_B14
+	Fitted params (min, max, ec50, hill): 0.00, 97.79, 6.14, 0.74
+	EC50 fitted: 6.136551060
+	Chisq	451.9434
+	Pearson: 0.9963	5.59E-12
+	R squared:	0.9925
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  531.875661  25.327412  80.360542  83.894703             13     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50   6.136551   0.000000  106.275929   True   NaN  1.051323   -1.079864
+1  hill   0.742921 -99.233006  100.766994   True   NaN  0.073064    0.000000
+2  ymax  97.791431       -inf         inf   True   NaN  3.295291   97.333830
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B15
+	Fitted params (min, max, ec50, hill): 0.00, 104.15, 4.24, 0.82
+	EC50 fitted: 4.239426815
+	Chisq	615.6923
+	Pearson: 0.9981	2.10E-13
+	R squared:	0.9960
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  358.111314  17.05292  70.866961  74.401122             17     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50    4.239427   0.000000  104.428002   True   NaN  0.471947   -1.155992
+1  hill    0.822221 -99.134351  100.865649   True   NaN  0.060951    0.000000
+2  ymax  104.148600       -inf         inf   True   NaN  2.256505  103.585455
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B16
+	Fitted params (min, max, ec50, hill): 0.00, 104.91, 6.70, 0.75
+	EC50 fitted: 6.700733663
+	Chisq	335.4902
+	Pearson: 0.9993	1.40E-15
+	R squared:	0.9986
+	Constrained fit results & evaluation
+    method  num_params  num_data_points     chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  71.851802  3.421514  32.317245  35.851406             13     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50    6.700734   0.000000  106.771872   True   NaN  0.395718   -1.061633
+1  hill    0.747026 -99.238701  100.761299   True   NaN  0.025358    0.000000
+2  ymax  104.912261       -inf         inf   True   NaN  1.233327  104.598099
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B18
+	Fitted params (min, max, ec50, hill): 0.00, 98.97, 1.21, 0.69
+	EC50 fitted: 1.205090407
+	Chisq	230.9305
+	Pearson: 0.9987	3.05E-14
+	R squared:	0.9973
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC       BIC  num_func_eval  success         message
+0  leastsq           3               24  288.685161  13.746912  65.694789  69.22895             17     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50   1.205090   0.000000  101.102949   True   NaN  0.136910   -1.361521
+1  hill   0.690311 -99.355009  100.644991   True   NaN  0.044296    0.000000
+2  ymax  98.974815       -inf         inf   True   NaN  1.821951   99.735609
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B2
+	Fitted params (min, max, ec50, hill): 0.00, 104.43, 27.87, 0.88
+	EC50 fitted: 27.873321382
+	Chisq	1467.8879
+	Pearson: 0.9981	1.83E-13
+	R squared:	0.9956
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  369.626912  17.601282  71.626568  75.160729             13     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50   27.873321   0.000000  128.388661   True   NaN  3.930778   -0.591697
+1  hill    0.878464 -99.057402  100.942598   True   NaN  0.078984    0.000000
+2  ymax  104.434250       -inf         inf   True   NaN  3.749567  103.012148
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B20
+	Fitted params (min, max, ec50, hill): 0.00, 63.71, 10.80, 1.10
+	EC50 fitted: 10.798144515
+	Chisq	29.5080
+	Pearson: 0.9662	3.26E-07
+	R squared:	0.9196
+	Constrained fit results & evaluation
+    method  num_params  num_data_points       chisqr      redchi         AIC         BIC  num_func_eval  success         message
+0  leastsq           3               24  2600.432009  123.830096  118.449097  121.983258             17     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50  10.798145   0.000000  112.915965   True   NaN  4.297063   -0.880769
+1  hill   1.098555 -98.565913  101.434087   True   NaN  0.395662    0.000000
+2  ymax  63.710040       -inf         inf   True   NaN  6.038147   62.445428
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B21
+	Fitted params (min, max, ec50, hill): 0.00, 96.63, 13.45, 0.92
+	EC50 fitted: 13.446203049
+	Chisq	28.0659
+	Pearson: 0.9998	1.85E-18
+	R squared:	0.9996
+	Constrained fit results & evaluation
+    method  num_params  num_data_points     chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  60.390135  2.875721  28.146527  31.680688             13     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50  13.446203   0.000000  113.512505   True   NaN  0.671609   -0.866273
+1  hill   0.921212 -99.068899  100.931101   True   NaN  0.033314    0.000000
+2  ymax  96.628765       -inf         inf   True   NaN  1.125594   96.476459
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B22
+	Fitted params (min, max, ec50, hill): 0.00, 98.48, 16.05, 0.88
+	EC50 fitted: 16.054779444
+	Chisq	579.1084
+	Pearson: 0.9990	6.43E-15
+	R squared:	0.9980
+	Constrained fit results & evaluation
+    method  num_params  num_data_points     chisqr   redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  79.229219  3.77282  34.662992  38.197153             13     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50  16.054779   0.000000  116.280310   True   NaN  0.983239   -0.803776
+1  hill   0.881316 -99.093956  100.906044   True   NaN  0.036408    0.000000
+2  ymax  98.483108       -inf         inf   True   NaN  1.420909   98.066689
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B23
+	Fitted params (min, max, ec50, hill): 0.00, 104.28, 10.42, 0.99
+	EC50 fitted: 10.419998914
+	Chisq	294.6951
+	Pearson: 0.9982	1.30E-13
+	R squared:	0.9964
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi       AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  273.080529  13.003835  64.36111  67.895271             17     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50   10.419999   0.000000  110.607981   True   NaN  0.908267   -0.941068
+1  hill    0.992670 -98.980864  101.019136   True   NaN  0.069651    0.000000
+2  ymax  104.279537       -inf         inf   True   NaN  2.092668  103.987683
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B24
+	Fitted params (min, max, ec50, hill): 0.00, 85.26, 7.05, 0.72
+	EC50 fitted: 7.054334258
+	Chisq	30.7150
+	Pearson: 0.9991	5.30E-15
+	R squared:	0.9982
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi        AIC       BIC  num_func_eval  success         message
+0  leastsq           3               24  201.699206  9.604724  57.089368  60.62353              9     True  Fit succeeded.
+   name      value       min         max   vary  expr    stderr  init_value
+0  ec50   7.054334   0.00000  107.061738   True   NaN  0.910354   -1.051324
+1  hill   0.720242 -99.27834  100.721660   True   NaN  0.050657    0.000000
+2  ymax  85.256661      -inf         inf   True   NaN  2.174694   85.227703
+3  ymin   0.000000      -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B26
+	Fitted params (min, max, ec50, hill): 0.00, 94.29, 3.51, 0.73
+	EC50 fitted: 3.514617278
+	Chisq	1502.8800
+	Pearson: 0.9988	1.82E-14
+	R squared:	0.9976
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  117.676624  5.603649  44.157277  47.691439             17     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50   3.514617   0.000000  103.406783   True   NaN  0.278830   -1.205755
+1  hill   0.730106 -99.302506  100.697494   True   NaN  0.033540    0.000000
+2  ymax  94.292183       -inf         inf   True   NaN  1.374672   94.946022
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B27
+	Fitted params (min, max, ec50, hill): 0.00, 99.61, 19.93, 0.86
+	EC50 fitted: 19.934915696
+	Chisq	452.6495
+	Pearson: 0.9979	3.13E-13
+	R squared:	0.9948
+	Constrained fit results & evaluation
+    method  num_params  num_data_points     chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  244.93476  11.66356  61.750513  65.284675             17     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50  19.934916   0.000000  120.777373   True   NaN  2.280843   -0.715426
+1  hill   0.862955 -99.043807  100.956193   True   NaN  0.063505    0.000000
+2  ymax  99.605645       -inf         inf   True   NaN  2.746401   97.964760
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B28
+	Fitted params (min, max, ec50, hill): 0.00, 87.27, 7.80, 0.87
+	EC50 fitted: 7.804738386
+	Chisq	178.2266
+	Pearson: 0.9995	2.76E-16
+	R squared:	0.9989
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr   redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  101.956887  4.85509  40.715909  44.250071             13     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50   7.804738   0.000000  107.921047   True   NaN  0.554554   -1.022103
+1  hill   0.872948 -99.106024  100.893976   True   NaN  0.043237    0.000000
+2  ymax  87.266288       -inf         inf   True   NaN  1.322538   87.000562
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B29
+	Fitted params (min, max, ec50, hill): 0.00, 106.86, 13.76, 0.85
+	EC50 fitted: 13.757088357
+	Chisq	116.5041
+	Pearson: 0.9991	3.63E-15
+	R squared:	0.9983
+	Constrained fit results & evaluation
+    method  num_params  num_data_points     chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  100.73378  4.796847  40.426257  43.960418             13     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50   13.757088   0.000000  113.875599   True   NaN  0.900506   -0.857643
+1  hill    0.845517 -99.140218  100.859782   True   NaN  0.035710    0.000000
+2  ymax  106.863414       -inf         inf   True   NaN  1.590191  106.581180
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B3
+	Fitted params (min, max, ec50, hill): 0.00, 77.98, 33.28, 0.97
+	EC50 fitted: 33.279075493
+	Chisq	18.5937
+	Pearson: 0.9968	2.57E-12
+	R squared:	0.9915
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC       BIC  num_func_eval  success         message
+0  leastsq           3               24  401.348963  19.111855  73.602659  77.13682             17     True  Fit succeeded.
+   name      value       min         max   vary  expr    stderr  init_value
+0  ec50  33.279075   0.00000  134.501396   True   NaN  5.885343   -0.508621
+1  hill   0.972495 -98.92298  101.077020   True   NaN  0.124548    0.000000
+2  ymax  77.976770      -inf         inf   True   NaN  3.754964   76.603517
+3  ymin   0.000000      -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B30
+	Fitted params (min, max, ec50, hill): 0.00, 118.53, 46.70, 0.94
+	EC50 fitted: 46.702009037
+	Chisq	6908.0945
+	Pearson: 0.9988	1.78E-14
+	R squared:	0.9972
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  243.663292  11.603014  61.625604  65.159765             17     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50   46.702009   0.000000  147.292232   True   NaN  4.850632   -0.365959
+1  hill    0.944757 -98.997807  101.002193   True   NaN  0.065359    0.000000
+2  ymax  118.525881       -inf         inf   True   NaN  3.496419  117.124738
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B31
+	Fitted params (min, max, ec50, hill): 0.00, 119.25, 25.07, 0.75
+	EC50 fitted: 25.066168195
+	Chisq	93.4004
+	Pearson: 0.9956	1.34E-11
+	R squared:	0.9890
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC       BIC  num_func_eval  success         message
+0  leastsq           3               24  628.476838  29.927468  84.365888  87.90005             21     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50   25.066168   0.000000  125.811175   True   NaN  5.009810   -0.630667
+1  hill    0.753042 -99.098623  100.901377   True   NaN  0.077097    0.000000
+2  ymax  119.251738       -inf         inf   True   NaN  5.588261  114.912940
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B32
+	Fitted params (min, max, ec50, hill): 0.00, 151.73, 560.85, 0.73
+	EC50 fitted: 560.845186505
+	Chisq	325.3699
+	Pearson: 0.9962	6.62E-12
+	R squared:	0.9923
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  408.410988  19.448142  74.021284  77.555445             13     True  Fit succeeded.
+   name       value        min         max   vary  expr      stderr  init_value
+0  ec50  560.845187   0.000000  670.947260   True   NaN  398.319291    0.778081
+1  hill    0.729950 -99.274657  100.725343   True   NaN    0.113015    0.000000
+2  ymax  151.732154       -inf         inf   True   NaN   37.153889  152.752261
+3  ymin    0.000000       -inf         inf  False   NaN    0.000000         NaN
+Sigmoid fitting for: BOMV_B33
+	Fitted params (min, max, ec50, hill): 0.00, 112.64, 185.04, 0.78
+	EC50 fitted: 185.043629961
+	Chisq	750.4621
+	Pearson: 0.9975	7.53E-13
+	R squared:	0.9941
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  271.818019  12.943715  64.249895  67.784057             17     True  Fit succeeded.
+   name       value        min         max   vary  expr     stderr  init_value
+0  ec50  185.043630   0.000000  270.286010   True   NaN  57.731404    0.263067
+1  hill    0.776859 -99.152012  100.847988   True   NaN   0.085706    0.000000
+2  ymax  112.637601       -inf         inf   True   NaN  10.862383  107.820916
+3  ymin    0.000000       -inf         inf  False   NaN   0.000000         NaN
+Sigmoid fitting for: BOMV_B34
+	Fitted params (min, max, ec50, hill): 0.00, 107.25, 0.56, 0.94
+	EC50 fitted: 0.561897311
+	Chisq	290.7206
+	Pearson: 0.9973	1.23E-12
+	R squared:	0.9944
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  324.340644  15.444793  68.489772  72.023934             13     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50    0.561897   0.000000  100.532590   True   NaN  0.045305   -1.425097
+1  hill    0.941271 -99.102712  100.897288   True   NaN  0.060745    0.000000
+2  ymax  107.254435       -inf         inf   True   NaN  1.427270  107.577847
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B35
+	Fitted params (min, max, ec50, hill): 0.00, 102.25, 8.14, 1.05
+	EC50 fitted: 8.139524921
+	Chisq	207.0479
+	Pearson: 0.9981	1.90E-13
+	R squared:	0.9956
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  267.897976  12.757046  63.901257  67.435419             17     True  Fit succeeded.
+   name       value       min         max   vary  expr    stderr  init_value
+0  ec50    8.139525   0.00000  108.539656   True   NaN  0.657880   -1.002176
+1  hill    1.052152 -98.87287  101.127130   True   NaN  0.073917    0.000000
+2  ymax  102.246367      -inf         inf   True   NaN  1.870915  101.633330
+3  ymin    0.000000      -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B36
+	Fitted params (min, max, ec50, hill): 0.00, 89.82, 0.56, 0.79
+	EC50 fitted: 0.564527502
+	Chisq	17.1550
+	Pearson: 0.9928	1.54E-10
+	R squared:	0.9855
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  741.547324  35.311777  88.336444  91.870605             17     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50   0.564528   0.000000  100.527186   True   NaN  0.095139   -1.425836
+1  hill   0.785854 -99.249378  100.750622   True   NaN  0.087939    0.000000
+2  ymax  89.823840       -inf         inf   True   NaN  2.370817   90.123748
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B37
+	Fitted params (min, max, ec50, hill): 0.00, 109.13, 16.65, 0.88
+	EC50 fitted: 16.647449767
+	Chisq	23618.4569
+	Pearson: 0.9991	3.79E-15
+	R squared:	0.9978
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  138.189905  6.580472  48.013801  51.547962             17     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50   16.647450   0.000000  117.166338   True   NaN  1.224406   -0.785212
+1  hill    0.880784 -99.059488  100.940512   True   NaN  0.043531    0.000000
+2  ymax  109.129502       -inf         inf   True   NaN  1.900062  108.045296
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B38
+	Fitted params (min, max, ec50, hill): 0.00, 171.73, 753.32, 0.90
+	EC50 fitted: 753.317880481
+	Chisq	120.8474
+	Pearson: 0.9995	1.91E-16
+	R squared:	0.9988
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  143.766236  6.846011  48.963235  52.497396             35     True  Fit succeeded.
+   name       value        min         max   vary  expr      stderr  init_value
+0  ec50  753.317880   0.000000  757.497585   True   NaN  308.578272    0.827102
+1  hill    0.896729 -99.053279  100.946721   True   NaN    0.091262    0.000000
+2  ymax  171.731515       -inf         inf   True   NaN   30.550806  161.156860
+3  ymin    0.000000       -inf         inf  False   NaN    0.000000         NaN
+Sigmoid fitting for: BOMV_B39
+	Fitted params (min, max, ec50, hill): 0.00, 108.26, 8.58, 0.90
+	EC50 fitted: 8.576375840
+	Chisq	883.0383
+	Pearson: 0.9991	3.89E-15
+	R squared:	0.9981
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  125.588064  5.980384  45.718881  49.253043             17     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50    8.576376   0.000000  108.829534   True   NaN  0.534395   -0.993125
+1  hill    0.897155 -99.060061  100.939939   True   NaN  0.040125    0.000000
+2  ymax  108.260083       -inf         inf   True   NaN  1.468462  107.650654
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B4
+	Fitted params (min, max, ec50, hill): 0.00, 75.05, 229.12, 0.71
+	EC50 fitted: 229.122902571
+	Chisq	2973.3572
+	Pearson: 0.9973	1.03E-12
+	R squared:	0.9938
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi       AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  128.657232  6.126535  46.29835  49.832512             17     True  Fit succeeded.
+   name       value        min         max   vary  expr     stderr  init_value
+0  ec50  229.122903   0.000000  289.760253   True   NaN  98.200390    0.314956
+1  hill    0.711968 -99.195192  100.804808   True   NaN   0.087721    0.000000
+2  ymax   75.054491       -inf         inf   True   NaN   9.592644   69.554888
+3  ymin    0.000000       -inf         inf  False   NaN   0.000000         NaN
+Sigmoid fitting for: BOMV_B40
+	Fitted params (min, max, ec50, hill): 0.00, 106.35, 2.48, 0.69
+	EC50 fitted: 2.478273273
+	Chisq	98.9788
+	Pearson: 0.9987	3.36E-14
+	R squared:	0.9972
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  221.564865  10.550708  59.343877  62.878039             17     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50    2.478273   0.000000  102.323092   True   NaN  0.245921   -1.268291
+1  hill    0.690734 -99.358676  100.641324   True   NaN  0.037625    0.000000
+2  ymax  106.346758       -inf         inf   True   NaN  1.836737  107.525453
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B41
+	Fitted params (min, max, ec50, hill): 0.00, 97.56, 23.32, 0.87
+	EC50 fitted: 23.316530419
+	Chisq	5471.1956
+	Pearson: 0.9995	3.80E-16
+	R squared:	0.9988
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi       AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  119.279723  5.679987  44.48202  48.016182             13     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50  23.316530   0.000000  123.580503   True   NaN  1.933553   -0.666677
+1  hill   0.873253 -99.097739  100.902261   True   NaN  0.046653    0.000000
+2  ymax  97.560684       -inf         inf   True   NaN  2.002617   96.975223
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B42
+	Fitted params (min, max, ec50, hill): 0.00, 108.43, 93.64, 0.82
+	EC50 fitted: 93.635608639
+	Chisq	111.5654
+	Pearson: 0.9997	2.65E-17
+	R squared:	0.9992
+	Constrained fit results & evaluation
+    method  num_params  num_data_points     chisqr    redchi       AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  28.186264  1.342203  9.858742  13.392904             13     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50   93.635609   0.000000  191.990640   True   NaN  6.028952   -0.041730
+1  hill    0.823201 -99.147839  100.852161   True   NaN  0.024830    0.000000
+2  ymax  108.431275       -inf         inf   True   NaN  2.044197  107.057297
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B43
+	Fitted params (min, max, ec50, hill): 0.00, 116.00, 7.65, 0.86
+	EC50 fitted: 7.645937174
+	Chisq	87.2370
+	Pearson: 0.9994	5.13E-16
+	R squared:	0.9987
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi       AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  132.728307  6.320396  47.04601  50.580171             13     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50    7.645937   0.000000  107.847321   True   NaN  0.475791   -1.024537
+1  hill    0.856275 -99.110049  100.889951   True   NaN  0.036297    0.000000
+2  ymax  116.004427       -inf         inf   True   NaN  1.526674  115.440463
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B44
+	Fitted params (min, max, ec50, hill): 0.00, 92.81, 116.65, 0.75
+	EC50 fitted: 116.654497307
+	Chisq	3608.2717
+	Pearson: 0.9985	6.85E-14
+	R squared:	0.9969
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  215.800421  10.276211  58.711204  62.245366             17     True  Fit succeeded.
+   name       value       min         max   vary  expr     stderr  init_value
+0  ec50  116.654497   0.00000  218.105892   True   NaN  31.963680    0.083110
+1  hill    0.752639 -99.25864  100.741360   True   NaN   0.078762    0.000000
+2  ymax   92.806414      -inf         inf   True   NaN   7.238405   93.445792
+3  ymin    0.000000      -inf         inf  False   NaN   0.000000         NaN
+Sigmoid fitting for: BOMV_B45
+	Fitted params (min, max, ec50, hill): 0.00, 115.21, 20.06, 0.84
+	EC50 fitted: 20.055026402
+	Chisq	490.4992
+	Pearson: 0.9997	2.00E-17
+	R squared:	0.9994
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  184.105652  8.766936  54.898943  58.433105             13     True  Fit succeeded.
+   name       value       min         max   vary  expr    stderr  init_value
+0  ec50   20.055026   0.00000  120.188761   True   NaN  1.786764   -0.726221
+1  hill    0.841361 -99.14269  100.857310   True   NaN  0.046478    0.000000
+2  ymax  115.208766      -inf         inf   True   NaN  2.451628  114.808795
+3  ymin    0.000000      -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B46
+	Fitted params (min, max, ec50, hill): 0.00, 91.88, 38.90, 1.00
+	EC50 fitted: 38.903501631
+	Chisq	555.8613
+	Pearson: 0.9994	5.86E-16
+	R squared:	0.9987
+	Constrained fit results & evaluation
+    method  num_params  num_data_points     chisqr    redchi       AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  87.955969  4.188379  37.17078  40.704942             17     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50  38.903502   0.000000  139.175047   True   NaN  2.722750   -0.452304
+1  hill   1.001461 -98.975935  101.024065   True   NaN  0.052047    0.000000
+2  ymax  91.884914       -inf         inf   True   NaN  1.816453   91.523233
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B47
+	Fitted params (min, max, ec50, hill): 0.00, 100.98, 2.71, 0.75
+	EC50 fitted: 2.713123423
+	Chisq	10247.9201
+	Pearson: 0.9998	3.74E-18
+	R squared:	0.9995
+	Constrained fit results & evaluation
+    method  num_params  num_data_points     chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  60.172909  2.865377  28.060042  31.594203             13     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50    2.713123   0.000000  102.614962   True   NaN  0.134963   -1.250155
+1  hill    0.751583 -99.279022  100.720978   True   NaN  0.022703    0.000000
+2  ymax  100.982807       -inf         inf   True   NaN  0.905793  101.514984
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B48
+	Fitted params (min, max, ec50, hill): 0.00, 93.05, 5.83, 0.74
+	EC50 fitted: 5.831779689
+	Chisq	348.1058
+	Pearson: 0.9990	6.84E-15
+	R squared:	0.9980
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr   redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  147.389335  7.01854  49.560571  53.094732             13     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50   5.831780   0.000000  105.961924   True   NaN  0.556448   -1.091827
+1  hill   0.735082 -99.237269  100.762731   True   NaN  0.039818    0.000000
+2  ymax  93.051633       -inf         inf   True   NaN  1.729789   92.513236
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B49
+	Fitted params (min, max, ec50, hill): 0.00, 106.25, 6.82, 0.73
+	EC50 fitted: 6.820239125
+	Chisq	82.0649
+	Pearson: 0.9996	9.27E-17
+	R squared:	0.9991
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC       BIC  num_func_eval  success         message
+0  leastsq           3               24  265.246835  12.630802  63.662568  67.19673             13     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50    6.820239   0.000000  106.733315   True   NaN  0.786674   -1.063023
+1  hill    0.732689 -99.285208  100.714792   True   NaN  0.047256    0.000000
+2  ymax  106.245882       -inf         inf   True   NaN  2.427857  106.706384
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B50
+	Fitted params (min, max, ec50, hill): 0.00, 97.07, 3.02, 0.84
+	EC50 fitted: 3.021327524
+	Chisq	63.5239
+	Pearson: 0.9991	4.41E-15
+	R squared:	0.9982
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr    redchi        AIC       BIC  num_func_eval  success         message
+0  leastsq           3               24  218.137284  10.38749  58.969699  62.50386             13     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50   3.021328   0.000000  103.038355   True   NaN  0.265917   -1.225647
+1  hill   0.841578 -99.152742  100.847258   True   NaN  0.051326    0.000000
+2  ymax  97.065442       -inf         inf   True   NaN  1.611387   96.996353
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B6
+	Fitted params (min, max, ec50, hill): 0.00, 66.38, 512.55, 0.82
+	EC50 fitted: 512.549226699
+	Chisq	251.8036
+	Pearson: 0.9945	3.85E-11
+	R squared:	0.9852
+	Constrained fit results & evaluation
+    method  num_params  num_data_points     chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  85.767858  4.084184  36.566172  40.100333             50     True  Fit succeeded.
+   name       value        min         max   vary  expr      stderr  init_value
+0  ec50  512.549227   0.000000  512.549371   True   NaN  752.050356    0.655800
+1  hill    0.819002 -99.044068  100.955932   True   NaN    0.130338    0.000000
+2  ymax   66.381123       -inf         inf   True   NaN   14.962296   59.637768
+3  ymin    0.000000       -inf         inf  False   NaN    0.000000         NaN
+Sigmoid fitting for: BOMV_B7
+	Fitted params (min, max, ec50, hill): 0.00, 25.49, 220.30, 0.79
+	EC50 fitted: 220.301838484
+	Chisq	287.3879
+	Pearson: 0.9893	1.10E-09
+	R squared:	0.9644
+	Constrained fit results & evaluation
+    method  num_params  num_data_points     chisqr    redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  73.627531  3.506073  32.903164  36.437326             29     True  Fit succeeded.
+   name       value        min         max   vary  expr      stderr  init_value
+0  ec50  220.301838   0.000000  265.209683   True   NaN  172.009014    0.248427
+1  hill    0.790592 -98.885531  101.114469   True   NaN    0.212337    0.000000
+2  ymax   25.488714       -inf         inf   True   NaN    6.375830   21.742478
+3  ymin    0.000000       -inf         inf  False   NaN    0.000000         NaN
+Sigmoid fitting for: BOMV_B8
+	Fitted params (min, max, ec50, hill): 0.00, 105.65, 31.23, 0.99
+	EC50 fitted: 31.232784846
+	Chisq	4.4057
+	Pearson: 0.9973	1.18E-12
+	R squared:	0.9936
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr     redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  576.799122  27.466625  82.306566  85.840727             13     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50   31.232785   0.000000  132.122200   True   NaN  4.699887   -0.539550
+1  hill    0.989191 -98.938725  101.061275   True   NaN  0.111116    0.000000
+2  ymax  105.654748       -inf         inf   True   NaN  4.312599  104.436153
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_B9
+	Fitted params (min, max, ec50, hill): 0.00, 91.78, 26.42, 0.87
+	EC50 fitted: 26.416432153
+	Chisq	749.9137
+	Pearson: 0.9997	7.81E-18
+	R squared:	0.9994
+	Constrained fit results & evaluation
+    method  num_params  num_data_points      chisqr  redchi        AIC        BIC  num_func_eval  success         message
+0  leastsq           3               24  110.266808  5.2508  42.596379  46.130541             13     True  Fit succeeded.
+   name      value        min         max   vary  expr    stderr  init_value
+0  ec50  26.416432   0.000000  126.545547   True   NaN  2.326293   -0.619292
+1  hill   0.868026 -99.112948  100.887052   True   NaN  0.048190    0.000000
+2  ymax  91.776648       -inf         inf   True   NaN  2.031882   91.372992
+3  ymin   0.000000       -inf         inf  False   NaN  0.000000         NaN
+Sigmoid fitting for: BOMV_DC52
+	Fitted params (min, max, ec50, hill): 0.00, 100.47, 6.26, 0.69
+	EC50 fitted: 6.264030707
+	Chisq	53.8314
+	Pearson: 0.9926	1.72E-10
+	R squared:	0.9834
+	Constrained fit results & evaluation
+    method  num_params  num_data_points       chisqr     redchi        AIC         BIC  num_func_eval  success         message
+0  leastsq           3               48  3896.528928  86.589532  217.03874  222.652343             21     True  Fit succeeded.
+   name       value        min         max   vary  expr    stderr  init_value
+0  ec50    6.264031   0.000000  106.668222   True   NaN  1.515500   -1.065379
+1  hill    0.690297 -99.158902  100.841098   True   NaN  0.086627    0.000000
+2  ymax  100.472073       -inf         inf   True   NaN  4.668038   97.106021
+3  ymin    0.000000       -inf         inf  False   NaN  0.000000         NaN

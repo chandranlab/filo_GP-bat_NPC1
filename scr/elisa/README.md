@@ -84,4 +84,5 @@ The algorithm requires three sets of inputs:
  For each subset is is necessary to specify the coordinates for the cells corresponding to the experimental readouts ("readout"), the substrate concentration ("concentration"), and labels ("name") 
 
 ### Master file
+ File describing the inputs, output and processing options
 

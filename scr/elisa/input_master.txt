@@ -5,10 +5,10 @@
 #
 #
 # Setting up the output directory
-DR	/Users/gorkalasso/Dropbox (EinsteinMed)/Elisa_platform/ebolavirus_NPC1/10_github_test/out/
+DR	/Users/gorkalasso/Documents/GitHub/filo_GP-bat_NPC1/scr/elisa/output/
 #
 # Setting up the input format
-FT	/Users/gorkalasso/Dropbox (EinsteinMed)/PycharmProjects/elisa2/format/estefania_format.txt
+FT	/Users/gorkalasso/Documents/GitHub/filo_GP-bat_NPC1/scr/elisa/format/format_NPC1.txt
 #
 # Do you want to log-transformed the concentrations (column headers)? True/False
 CL	True
@@ -55,10 +55,10 @@ CO	1
 # sym if symmetrical / asym for assymmetrical
 EQ	sym
 #
-YL	[NPC1-C] (Log10)
-XL	Normalized readout
+XL	[NPC1-C] (Log10)
+YL	Normalized readout
 #
 CT	BOMV
-FL	/Users/gorkalasso/Dropbox (EinsteinMed)/Elisa_platform/ebolavirus_NPC1/1_07_02_2020/Results/BOMV/Duplicate (EV)/01092020_BOMV_ELISA_B1-B28.xpt.xlsx
-FL	/Users/gorkalasso/Dropbox (EinsteinMed)/Elisa_platform/ebolavirus_NPC1/1_07_02_2020/Results/BOMV/Duplicate (EV)/01162020_BOMV_ELISA_B29-B50.xpt.xlsx
+FL	/Users/gorkalasso/Documents/GitHub/filo_GP-bat_NPC1/scr/elisa/input_ELISA/01092020_BOMV_ELISA_B1-B28.xpt.xlsx
+FL	/Users/gorkalasso/Documents/GitHub/filo_GP-bat_NPC1/scr/elisa/input_ELISA/01162020_BOMV_ELISA_B29-B50.xpt.xlsx
 //
