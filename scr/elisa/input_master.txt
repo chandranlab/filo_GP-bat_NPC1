@@ -1,0 +1,64 @@
+# Follow the following format
+# CT    category (e.g. EBOV)
+# DR	output directory
+# # // end of category
+#
+#
+# Setting up the output directory
+DR	/Users/gorkalasso/Dropbox (EinsteinMed)/Elisa_platform/ebolavirus_NPC1/10_github_test/out/
+#
+# Setting up the input format
+FT	/Users/gorkalasso/Dropbox (EinsteinMed)/PycharmProjects/elisa2/format/estefania_format.txt
+#
+# Do you want to log-transformed the concentrations (column headers)? True/False
+CL	True
+#
+# Setting up the denoise option (either 1 or 2)
+# Option 1: Denoise using the minimum average readout for the same sample
+#           Each sample will have its own background noise based on the
+#           average of the corresponding readouts for the same sample
+#           NPC1 FORMAT!!
+# Option 2: Denoise using the max average blank readout across all the sheets
+#           All samples within a file (including different sheets) are
+#           denoised using the average of all the blanks accross the different
+#           sheets. Consequently, all readouts (including in different sheets) are
+#           corrected by the same exact background noise
+#           COVID19 FORMAT!!
+# Option 3: Denoise using the max average blank readout within a sheet. Readouts
+#           within particular sheets will be denoised using the same value. Readouts
+#           in different sheets will be substracted a different backgroud level if the
+#           blank readouts in those sheets are different
+#           COVID19 FORMAT!!
+DE	1
+# 
+# Normalize readouts
+# Option 0: Don't Normalize
+# Option 1: Normalize using max av readout for the positive control within the file
+#           NPC1 format
+# Option 2: Normalize using max av readout for the positive control within each sheet
+#           in the file
+#           COVID19 format
+NR	1
+#
+# Fitting sigmoidal using each replicate y value as individual point
+# 0 Fit sigmoidal to average values
+# 1 Fit sigmoidal using each replicate y value as individual point
+SI	1
+#
+# Constraint so that the sigmoidal minimum is 0
+# 0 if no constraint
+# 1 to fix ymin to 0 (Elisa experiment)
+# 2 to constrain ymin and ymax between 0 and 100 (Neut experiment)
+CO	1
+#
+# Equation
+# sym if symmetrical / asym for assymmetrical
+EQ	sym
+#
+YL	[NPC1-C] (Log10)
+XL	Normalized readout
+#
+CT	BOMV
+FL	/Users/gorkalasso/Dropbox (EinsteinMed)/Elisa_platform/ebolavirus_NPC1/1_07_02_2020/Results/BOMV/Duplicate (EV)/01092020_BOMV_ELISA_B1-B28.xpt.xlsx
+FL	/Users/gorkalasso/Dropbox (EinsteinMed)/Elisa_platform/ebolavirus_NPC1/1_07_02_2020/Results/BOMV/Duplicate (EV)/01162020_BOMV_ELISA_B29-B50.xpt.xlsx
+//

@@ -1,4 +1,4 @@
-#Coordinates for readouts to be denoised & normalized
+#Coordinates for readouts to be processed
 experiment | readout | usecols | B:M
 experiment | readout | skiprows | 8
 experiment | readout | nrows | 8
