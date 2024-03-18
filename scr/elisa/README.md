@@ -8,7 +8,7 @@
   <h3 align="center">ELISA processing pipeline</h3>
 
   <p align="center">
-    A python code for the automatic processing of ELISA experiemtns
+    A python code for the automatic processing of ELISA experiments
     <br />
     <a href="https://github.com/chandranlab/filo_GP-bat_NPC1"><strong>Explore the docs »</strong></a>
     <br />
@@ -26,16 +26,7 @@
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 Python version: 3.8.2
 
@@ -53,8 +44,6 @@ Python version: 3.8.2
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Clone the repository (<a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">howto</a>)
 2. Create conda environment
    ```sh
@@ -71,6 +60,18 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ########################################################################################## -->
+
+<!-- INPUT -->
+
+## Input files
 
 
+
+### Cytation file(s)
+
+
+### Format file
+
+### Master file
 
