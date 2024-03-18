@@ -28,9 +28,9 @@
 
 ### Prerequisites
 
-Python version: 3.8.2
+ Python version: 3.8.2
 
-Packages
+ Packages
 
 |Package         | Version  |
 |----------------|:--------:|
