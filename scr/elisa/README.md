@@ -81,6 +81,7 @@ The algorithm requires three sets of inputs:
 * Positive controls
 * Negative controls
 * Blanks
+
  For each subset is is necessary to specify the coordinates for the cells corresponding to the experimental readouts ("readout"), the substrate concentration ("concentration"), and labels ("name") 
 
 ### Master file
