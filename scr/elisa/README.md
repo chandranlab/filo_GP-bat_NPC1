@@ -32,17 +32,17 @@
 
  Packages
 
-|Package         | Version  |
-|----------------|:--------:|
-|pandas          | 1.2.3    |
-|lmfit           | 1.0.2    |
-|matplotlib      | 3.4.1    |
-|numpy           | 1.20.2   |
-|scipy           | 1.6.2    |
-|scikit-learn    | 0.24.1   |
-|openpyxl        | 3.0.7    |
-|pybroom         | 0.2      |
-|XlsxWriter       | 1.3.8   |
+ |Package         | Version  |
+ |----------------|:--------:|
+ |pandas          | 1.2.3    |
+ |lmfit           | 1.0.2    |
+ |matplotlib      | 3.4.1    |
+ |numpy           | 1.20.2   |
+ |scipy           | 1.6.2    |
+ |scikit-learn    | 0.24.1   |
+ |openpyxl        | 3.0.7    |
+ |pybroom         | 0.2      |
+ |XlsxWriter       | 1.3.8   |
 
 ### Installation
 
