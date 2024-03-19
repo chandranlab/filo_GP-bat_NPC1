@@ -91,7 +91,7 @@ Machine Learning
 #### Prepare input sequences for machine learning
 <p>
 <ul>
-<li>A collection of Jupyter notebooks to translate amino acid sequences from filovirus GPs and host NPC1s into feature vectors that describe various amino acid physicochemical properies. Paired vectors will be used for training and evaluating a Random Forest.<a href="https://github.com/chandranlab/filo_GP-bat_NPC1/tree/main/scr/seq_to_feat">More info</a></li>
+<li>A collection of Jupyter notebooks to translate amino acid sequences from filovirus GPs and host NPC1s into feature vectors that describe various amino acid physicochemical properies. Paired vectors will be used for training and evaluating a Random Forest. <a href="https://github.com/chandranlab/filo_GP-bat_NPC1/tree/main/scr/seq_to_feat">More info</a></li>
 </p>
 
 #### Random forest
