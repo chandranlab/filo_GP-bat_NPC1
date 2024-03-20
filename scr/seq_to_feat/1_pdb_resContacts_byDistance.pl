@@ -240,7 +240,7 @@ sub GetInputOptions{
     Usage:
 $PGM -i input pdb -c1 chain 1 -c2 chain 2 -d distance cutoff -dif1 370 -dif2 0 -beta True -dnds ../DnDs/NEB_AllBat_dNdS.csv
     options:
-        e.g. $PGM -i 5f1b.pdb -c1 A -c2 C -d 5 -dif1 370 -dif2 0
+        e.g. $PGM -i 5f1b.pdb -c1 A -c2 C -d 5 -dif1 0 -dif2 372
         dif1 and dif2 are optional, corrects the residue numbering according to a
           user-defined value
 USAGE
