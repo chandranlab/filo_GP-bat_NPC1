@@ -28,9 +28,10 @@
 
 ### Prerequisites
 
- Python version: 3.8.2
+ Perl version: 5.30.2
+ Python version: 
 
- Packages
+ Python packages
 
 |Package         | Version  |
 |----------------|:--------:|
@@ -72,8 +73,8 @@ The pipeline of scripts requires various inputs:
 * dd
 * dd
 
-### PDB file
- dd
+### PDB file (5F1B)
+* Crystal structure of Zaire GP (chain A: GP1; chain B: GP2) bound to human NPC1 (chain C)
 
 ### Amino acid sequences
  dd
