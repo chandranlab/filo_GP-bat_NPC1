@@ -68,10 +68,6 @@
 <!-- INPUT -->
 
 ## Input files
-The pipeline of scripts requires various inputs:
-* dd
-* dd
-* dd
 
 ### PDB file (5F1B)
 * Crystal structure of Zaire GP (chain A: GP1; chain B: GP2) bound to human NPC1 (chain C)
