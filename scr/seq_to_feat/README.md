@@ -58,6 +58,8 @@
 
 ### Other
 * 0\_amino\_acid\_table.xlsx: Amino acid nomenclature conversion
+* 0\_amino\_acid\_scales.xlsx: Amino acid physicochemical scales
+* 0\_npc1\_list.xlsx: NPC1 nomenclature mapping (Bat specie <-> Internal ID)
 
 <!-- ########################################################################################## -->
 
@@ -80,5 +82,8 @@
 
 4. Pair interfacial fasta files (GP + NPC1)
     * Jupyter notebook: 4\_combine_fasta.ipynb
+
+5. Convert paired fasta files into physicochemical properties (one at a time)
+    * Jupyter notebook: 5\_seq\_2\_feature.ipynb
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
