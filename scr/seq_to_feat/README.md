@@ -35,15 +35,9 @@
 
 |Package         | Version  |
 |----------------|:--------:|
-|pandas          | 1.2.3    |
-|lmfit           | 1.0.2    |
-|matplotlib      | 3.4.1    |
-|numpy           | 1.20.2   |
-|scipy           | 1.6.2    |
-|scikit-learn    | 0.24.1   |
-|openpyxl        | 3.0.7    |
-|pybroom         | 0.2      |
-|XlsxWriter       | 1.3.8   |
+|pandas          | 1.0.1    |
+|bio             | 1.79     |
+|re              | 2.2.1    |
 
 ### Installation
 
@@ -72,8 +66,9 @@
 ### PDB file (5F1B)
 * Crystal structure of Zaire GP (chain A: GP1; chain B: GP2) bound to human NPC1 (chain C)
 
-### Amino acid sequences
- dd
+### Multiple Sequence alignments
+* 1\_gp1.aln: MSA on filovirus GP sequences (CLUSTAL format)
+* 2\_npc1.aln: MSA on bat NPC1s included in the experimental set (CLUSTAL format)
 
 
 ### Amino acid physicochemical scales
@@ -92,4 +87,5 @@
    ```
     2. Save output on excel spreadsheet (for exact details on formatting see output/1\_5f1b\_interface_summary)
 
-
+2. Reduce amino acid sequences to interfacial residues (at a given cutoff)
+    * Jupyter notebook: 2\_interface\_2\_fasta.ipynb
