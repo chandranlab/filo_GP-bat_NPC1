@@ -40,22 +40,6 @@
 |bio             | 1.79     |
 |re              | 2.2.1    |
 
-### Installation
-
-1. Clone the repository (<a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">howto</a>)
-2. Create conda environment
-   ```sh
-   conda env create -f environment_elisa.yml
-   ```
-3. Activate conda environment
-   ```sh
-   conda activate elisa2
-   ```
-4. Run
-   ```sh
-   python run_multiple_elisas.py
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ########################################################################################## -->
@@ -90,3 +74,8 @@
 
 2. Reduce amino acid sequences to interfacial residues (at a given cutoff)
     * Jupyter notebook: 2\_interface\_2\_fasta.ipynb
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
