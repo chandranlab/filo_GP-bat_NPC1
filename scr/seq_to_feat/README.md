@@ -78,5 +78,7 @@
 3. Add internal ID for bat NPC1s
     * Jupyter notebook: 3\_switch\_npc1header.ipynb
 
+4. Pair interfacial fasta files (GP + NPC1)
+    * Jupyter notebook: 4\_combine_fasta.ipynb
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
