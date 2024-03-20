@@ -75,7 +75,8 @@
 2. Reduce amino acid sequences to interfacial residues (at a given cutoff)
     * Jupyter notebook: 2\_interface\_2\_fasta.ipynb
 
-
+3. Add internal ID for bat NPC1s
+    * Jupyter notebook: 3\_switch\_npc1header.ipynb
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
