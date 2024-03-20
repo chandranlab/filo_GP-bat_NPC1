@@ -29,7 +29,8 @@
 ### Prerequisites
 
  Perl version: 5.30.2
- Python version: 
+
+ Python version: 3.7.6
 
  Python packages
 
