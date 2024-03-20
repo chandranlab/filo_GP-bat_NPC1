@@ -71,8 +71,8 @@
 * 2\_npc1.aln: MSA on bat NPC1s included in the experimental set (CLUSTAL format)
 
 
-### Amino acid physicochemical scales
- dd
+### Other
+* 0\_amino\_acid\_table.xlsx: Amino acid nomenclature conversion
 
 <!-- ########################################################################################## -->
 
