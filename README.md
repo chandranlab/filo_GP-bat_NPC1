@@ -59,6 +59,9 @@
 ## About this project
 
 Code repository for manuscript “Decoding the blueprint of filovirus entry through large-scale binding assays and machine learning” (Lasso et al., manuscript in preparation). This collection includes:
+
+Evidence suggests that bats are important hosts of filoviruses, but the specific bats involved remain largely unknown. The Niemann-Pick C1 protein (NPC1) serves as an essential entry receptor, with amino acid variations at the virus-receptor interface influencing viral susceptibility and species-specific tropism. We reasoned that variation in virus-receptor binding would aid in identifying potential host species. We performed binding studies across seven filovirus glycoproteins (GPs) and NPC1 orthologs from 81 bat species, finding that GP-NPC1 binding agreed poorly with overall sequence identity or phylogeny. However, integrating binding assays with machine learning revealed genetic factors influencing virus-receptor binding. The implemented model predicts GP-NPC1 binding avidity (R² of 0.69-0.75). Experimental and predicted binding avidities, combined with data on bat distribution and past Ebola virus outbreaks, helped rank bat species' potential as Ebola virus hosts. This study provides a multidisciplinary approach for predicting susceptible species and guiding filovirus host surveillance.
+
 <li>
 Processing of experimental data
   <ul>
