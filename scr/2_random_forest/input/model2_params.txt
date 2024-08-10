@@ -1,0 +1,18 @@
+# Model 1 param details
+rf_best-params	bootstrap|True
+rf_best-params	ccp_alpha|0.0
+rf_best-params	criterion|squared_error
+rf_best-params	max_depth|7
+rf_best-params	max_features|1.0
+rf_best-params	max_leaf_nodes|None
+rf_best-params	max_samples|None
+rf_best-params	min_impurity_decrease|0.0
+rf_best-params	min_samples_leaf|1
+rf_best-params	min_samples_split|7
+rf_best-params	min_weight_fraction_leaf|0.0
+rf_best-params	n_estimators|150
+rf_best-params	n_jobs|None
+rf_best-params	oob_score|True
+# rf_best-params	random_state|21
+rf_best-params	verbose|0
+rf_best-params	warm_start|False

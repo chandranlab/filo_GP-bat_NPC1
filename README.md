@@ -36,7 +36,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About this project</a>
     </li>
     <li>
       <a href="#scripts">Scripts</a>
@@ -44,7 +44,6 @@
         <li><a href="#process-elisa-readouts">Process ELISA readouts</a></li>
         <li><a href="#prepare-input-sequences-for-machine-learning">Prepare input sequences for machine learning</a></li>
         <li><a href="#random-forest">Random forest</a></li>
-        <li><a href="#model-interpretation">Model interpretation</a></li>
       </ul>
     </li>
     <li><a href="#datasets">Datasets</a></li>
@@ -57,7 +56,7 @@
 <!-- ########################################################################################## -->
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About this project
 
 Code repository for manuscript “Decoding the blueprint of filovirus entry through large-scale binding assays and machine learning” (Lasso et al., manuscript in preparation). This collection includes:
 <li>
@@ -68,10 +67,8 @@ Processing of experimental data
   </ul>
 Machine Learning
   <ul>
-    <li>Feature selection</li>
-    <li>Hyperparameter optimization</li>
-    <li>Training & Evaluation</li>
-    <li>Model interpretation</li>
+    <li>Training & Evaluation a Random Forest regressor to predict binding avidity between 
+    filovirus GPs and bat NPC1-C</li>
   </ul>
 </li>
 

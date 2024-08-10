@@ -36,9 +36,13 @@
 
 |Package         | Version  |
 |----------------|:--------:|
-|pandas          | 1.0.1    |
 |bio             | 1.79     |
+|mlxtend         | 0.19.0   |
+|numpy           | 1.21.6   |
+|pandas          | 1.0.1    |
 |re              | 2.2.1    |
+|seaborn         | 0.11.2   |
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,7 +57,8 @@
 
 ### Multiple Sequence alignments
 * 1\_gp1.aln: MSA on filovirus GP sequences (CLUSTAL format)
-* 2\_npc1.aln: MSA on bat NPC1s included in the experimental set (CLUSTAL format)
+* 1\_npc1.aln: MSA on bat NPC1s included in the experimental set (CLUSTAL format)
+* 2\_auc.txt: Area-Under-the-Curve for the sigmoidal curve fitted in the binding ELISA experiments
 
 
 ### Other
@@ -85,5 +90,8 @@
 
 5. Convert paired fasta files into physicochemical properties (one at a time)
     * Jupyter notebook: 5\_seq\_2\_feature.ipynb
+
+6. Add variable to predict (Binding AUC) to each feature assembled in the previous step
+    * Jupyter notebook: 6\_add\_var\_2\_predict.ipynb
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
