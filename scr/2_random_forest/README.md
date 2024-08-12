@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Sequence to feature vector</h3>
+  <h3 align="center">Random Forest regressor</h3>
   
   <a href="https://github.com/chandranlab/filo_GP-bat_NPC1/img/curves.png">
     <img src="/img/curves.png" alt="Logo" width="400">
@@ -28,19 +28,16 @@
 
 ### Prerequisites
 
- Perl version: 5.30.2
-
  Python version: 3.7.6
 
  Python packages
 
 |Package         | Version  |
 |----------------|:--------:|
-|bio             | 1.79     |
-|mlxtend         | 0.19.0   |
+|sklearn         | 1.0.2    |
+|matplotlib      | 3.1.3    |
 |numpy           | 1.21.6   |
 |pandas          | 1.0.1    |
-|re              | 2.2.1    |
 |seaborn         | 0.11.2   |
 
 
@@ -52,19 +49,15 @@
 
 ## Input files
 
-### PDB file (5F1B)
-* Crystal structure of Zaire GP (chain A: GP1; chain B: GP2) bound to human NPC1 (chain C)
+### model[1,2]_params.txt
+* Optimized hyper-parameters for the two RF regressors presented in the manuscript (model 1 and model 2)
 
-### Multiple Sequence alignments
-* 1\_gp1.aln: MSA on filovirus GP sequences (CLUSTAL format)
-* 1\_npc1.aln: MSA on bat NPC1s included in the experimental set (CLUSTAL format)
-* 2\_auc.txt: Area-Under-the-Curve for the sigmoidal curve fitted in the binding ELISA experiments
+### model[1,2]_datasets
+* model[1,2]\_train: Training dataset with selected features
+* model[1,2]\_test: Testing dataset with selected features
+* model[1,2]\_llov: Lloviu GP-binding datataset with selected features
 
 
-### Other
-* 0\_amino\_acid\_table.xlsx: Amino acid nomenclature conversion
-* 0\_amino\_acid\_scales.xlsx: Amino acid physicochemical scales
-* 0\_npc1\_list.xlsx: NPC1 nomenclature mapping (Bat specie <-> Internal ID)
 
 <!-- ########################################################################################## -->
 

@@ -1,4 +1,12 @@
-# Model 1 param details
+# Model 2 param details
+# Model 2 was trained on residues located at a intersubunit distance of <= 15 angs
+# Selected residues are described by at least one of three categories:
+#   1. Aromatic (Yes or No)
+#   2. Charge (Positive or Negative)
+#   3. Flexibility
+#   4. Hydrophobicity
+#
+# RF hyperparameters:
 rf_best-params	bootstrap|True
 rf_best-params	ccp_alpha|0.0
 rf_best-params	criterion|squared_error
