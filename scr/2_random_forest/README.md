@@ -53,9 +53,9 @@
 * Optimized hyper-parameters for the two RF regressors presented in the manuscript (model 1 and model 2)
 
 ### model[1,2]_datasets
-* model[1,2]\_train: Training dataset with selected features
-* model[1,2]\_test: Testing dataset with selected features
-* model[1,2]\_llov: Lloviu GP-binding datataset with selected features
+* model[1,2]\_train: Training dataset with selected features for model [1,2]
+* model[1,2]\_test: Testing dataset with selected features for model [1,2]
+* model[1,2]\_llov: Lloviu GP-binding datataset with selected features for model [1,2] 
 
 
 <!-- ########################################################################################## -->
@@ -64,7 +64,7 @@
 
 ## Script
 
-1. Jupyter notebook: ML.ipynb
+1. Jupyter notebook: ML.ipynb]\
     * Class "ML" with basic functions to train and evaluate the RF
 
 2. Jupyter notebook: RF_train_eval.ipynb
