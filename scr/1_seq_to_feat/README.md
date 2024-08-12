@@ -3,7 +3,7 @@
 <div align="center">
   <h3 align="center">Sequence to feature vector</h3>
   
-  <a href="https://github.com/chandranlab/filo_GP-bat_NPC1/img/curves.png">
+  <a href="https://github.com/chandranlab/filo_GP-bat_NPC1/img/features.png">
     <img src="/img/curves.png" alt="Logo" width="400">
   </a>
   
