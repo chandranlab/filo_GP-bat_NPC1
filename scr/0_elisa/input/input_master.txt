@@ -59,6 +59,6 @@ XL	[NPC1-C] (Log10)
 YL	Normalized readout
 #
 CT	BOMV
-FL	/Users/gorkalasso/Documents/GitHub/filo_GP-bat_NPC1/scr/elisa/input_ELISA/01092020_BOMV_ELISA_B1-B28.xpt.xlsx
-FL	/Users/gorkalasso/Documents/GitHub/filo_GP-bat_NPC1/scr/elisa/input_ELISA/01162020_BOMV_ELISA_B29-B50.xpt.xlsx
+FL	/Users/gorkalasso/Documents/GitHub/filo_GP-bat_NPC1/scr/elisa/input_ELISA/01092020_BOMV_ELISA_B1-B28.xlsx
+FL	/Users/gorkalasso/Documents/GitHub/filo_GP-bat_NPC1/scr/elisa/input_ELISA/01162020_BOMV_ELISA_B29-B50.xlsx
 //
