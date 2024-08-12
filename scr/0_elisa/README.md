@@ -72,3 +72,19 @@ The algorithm requires three sets of inputs:
 * format_NPC1.txt: Format file specifying what is what in the cytation files. Excel coordinates (row number / column letter) are necessary to describe the location of the experimental data, positive and negative controls, and blanks. It is is necessary to specify the coordinates for the cells corresponding to the experimental readouts ("readout"), the substrate concentration ("concentration"), and labels ("name") 
 * input_master.txt: File describing the inputs, output and processing options
 
+<!-- ########################################################################################## -->
+
+<!-- OUTPUT -->
+## output files
+The output here is based on the input of two ELISA binding experiments (input/01092020_BOMV_ELISA_B1-B28.xlsx & input/1162020_BOMV_ELISA_B29-B50.xlsx)
+* all_fitted_curves.png: Fitted sigmoidals curves altogether
+* all_predicted_readouts.csv: Inferred readouts based on the fitted sigmoidal curves
+* all_together_concat.xlsx: Concatenation of all ELISA binding experiments (processed)
+* auc.txt: Area-Under-the-Curve of the fitted sigmoidals
+* curve_fit_cons.txt: Sigmoidal parameters if curve_fit is constrained (not the case here)
+* curve_fit.txt: Sigmoidal parameters of each fitted sigmoidal curve (min, max, ec50, hill coefficient)
+* ec10.txt: EC10 of fitted sigmoidal curves
+* ec50.txt: EC50 of fitted sigmoidal curves
+* ec90.txt: EC00 of fitted sigmoidal curves
+* processing.log: log file
+* BOMV directory: Raw and processed (denoised and normalized) data from the ELISA binding experiments (input/01092020_BOMV_ELISA_B1-B28.xlsx & input/1162020_BOMV_ELISA_B29-B50.xlsx). Plots for each individual GP:NPC1 pair are also included (raw, denoised and normalized readouts; sigmoidal curve fit and; residual plots)
