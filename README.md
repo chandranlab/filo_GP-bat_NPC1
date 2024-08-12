@@ -53,7 +53,7 @@
 
 Code repository for the manuscript *“Decoding the blueprint of filovirus entry through large-scale binding assays and machine learning”* (Lasso et al., manuscript under revision).
 
-The Niemann-Pick C1 protein (NPC1) serves as an essential entry receptor for filoviruses, with amino acid variations at the virus-receptor interface influencing viral susceptibility and species-specific tropism. We reasoned that variation in virus-receptor binding would aid in identifying potential host species. To achieve this, we first performed **ELISA binding studies** across **seven filovirus glycoproteins (GPs) and NPC1 orthologs from 81 bat species**. Following this, we integrated binding assays with **machine learning to predict GP:NPC1 binding avidity** and reveal genetic factors influencing binding. This repository includes the following code to perform the following tasks:
+The Niemann-Pick C1 protein (NPC1) serves as an essential entry receptor for filoviruses, with amino acid variations at the virus-receptor interface influencing viral susceptibility and species-specific tropism. We reasoned that variation in virus-receptor binding would aid in identifying potential host species. To achieve this, we first performed **ELISA binding studies** across **seven filovirus glycoproteins (GPs) and NPC1 orthologs from 81 bat species**. Following this, we integrated binding assays with **machine learning to predict GP:NPC1 binding avidity** and reveal genetic factors influencing binding. This repository includes the code to perform the following tasks (see also the manuscript):
 
 <li>
 Processing of experimental data
@@ -90,12 +90,9 @@ Machine Learning
 
 #### Random forest
 <p>
-description
-</p>
-
-#### Model interpretation
-<p>
-description
+<ul>
+<li>Jupyter notebook to train and evaluate a Random Forest (RF) regressor</li><a href="https://github.com/chandranlab/filo_GP-bat_NPC1/tree/main/scr/2_random_forest">More info</a></li>
+</ul>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
