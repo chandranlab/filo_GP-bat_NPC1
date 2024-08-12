@@ -10,7 +10,7 @@
   <p align="center">
     A python code for the automatic processing of ELISA experiments
     <br />
-    <a href="https://github.com/chandranlab/filo_GP-bat_NPC1"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/chandranlab/filo_GP-bat_NPC1"><strong>Back to Main»</strong></a>
     <br />
     <br />
     ·

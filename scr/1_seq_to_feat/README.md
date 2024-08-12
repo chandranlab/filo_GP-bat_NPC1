@@ -8,9 +8,9 @@
   </a>
   
   <p align="center">
-    A collection of script to describe interfacial residues at the filovirus GP - bat NPC1 interface by their physicochemical properties
+    A collection of scripts to describe interfacial residues at the filovirus GP - bat NPC1 interface by their physicochemical properties
     <br />
-    <a href="https://github.com/chandranlab/filo_GP-bat_NPC1"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/chandranlab/filo_GP-bat_NPC1"><strong>Back to Main»</strong></a>
     <br />
     <br />
     ·

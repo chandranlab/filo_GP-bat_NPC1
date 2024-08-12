@@ -3,14 +3,14 @@
 <div align="center">
   <h3 align="center">Random Forest regressor</h3>
   
-  <a href="https://github.com/chandranlab/filo_GP-bat_NPC1/img/curves.png">
-    <img src="/img/curves.png" alt="Logo" width="400">
+  <a href="https://github.com/chandranlab/filo_GP-bat_NPC1/blob/main/img/evaluation.png">
+    <img src="/img/evaluation.png" alt="Logo" width="400">
   </a>
   
   <p align="center">
     A python code for the automatic processing of ELISA experiments
     <br />
-    <a href="https://github.com/chandranlab/filo_GP-bat_NPC1"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/chandranlab/filo_GP-bat_NPC1"><strong>Back to Main»</strong></a>
     <br />
     <br />
     ·
