@@ -58,7 +58,6 @@
 * model[1,2]\_llov: Lloviu GP-binding datataset with selected features
 
 
-
 <!-- ########################################################################################## -->
 
 <!-- SCRIPT -->
@@ -73,6 +72,6 @@
     * Evaluates by 10-fold cross-validation the RF
     * Trains the RF and evaluates it against the testing set and the Llov subset
     * Evaluation output is saved in 'output/model_eval.txt'
-    
+    * Predictions of both models are also combined into a single prediction
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
