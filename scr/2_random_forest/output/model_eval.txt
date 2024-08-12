@@ -63,3 +63,16 @@
 	Combined model R2 (test)	0.75
 	Combined model R2 (LLOV)	0.67
 ###################################################
+2024-08-12 09:16:41
+	Model 1 R2 (CV)	0.73 | 0.73 +/- 0.08
+	Model 1 R2 (test)	0.71
+	Model 1 R2 (LLOV)	0.69
+#
+	Model 2 R2 (CV)	0.74 | 0.73 +/- 0.09
+	Model 2 R2 (test)	0.76
+	Model 2 R2 (LLOV)	0.61
+#
+	Combined model R2 (CV)	0.75
+	Combined model R2 (test)	0.75
+	Combined model R2 (LLOV)	0.68
+###################################################
