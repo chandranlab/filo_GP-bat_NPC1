@@ -39,7 +39,6 @@
         <li><a href="#random-forest">Random forest</a></li>
       </ul>
     </li>
-    <li><a href="#datasets">Datasets</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -96,17 +95,6 @@ Machine Learning
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ########################################################################################## -->
-
-<!-- DATASETS -->
-## Datasets
-<div>
-<p>
-description
-</p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-</div>
 
 <!-- ########################################################################################## -->
 
